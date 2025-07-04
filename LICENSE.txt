@@ -1,0 +1,96 @@
+DUAL LICENSE
+
+This software is available under two different licenses:
+
+1. GNU General Public License v3.0 or later (GPL-3.0-or-later)
+2. Commercial License
+
+You may choose to use this software under the terms of either license.
+
+================================================================================
+OPTION 1: GNU GENERAL PUBLIC LICENSE VERSION 3.0 OR LATER
+================================================================================
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+The complete text of the GNU General Public License v3.0 can be found at:
+https://www.gnu.org/licenses/gpl-3.0.html
+
+================================================================================
+OPTION 2: COMMERCIAL LICENSE
+================================================================================
+
+If you wish to use this software in a proprietary application or otherwise
+under terms that are incompatible with the GPL-3.0-or-later license, you must
+obtain a separate commercial license.
+
+COMMERCIAL LICENSE TERMS:
+
+Subject to the terms and conditions of this Commercial License, the Licensor
+hereby grants you a non-exclusive, non-transferable license to:
+
+1. Use, modify, and distribute the Software in source code or binary form
+2. Incorporate the Software into proprietary applications
+3. Distribute proprietary applications that include the Software
+4. Create derivative works based on the Software
+
+RESTRICTIONS:
+
+1. You may not sublicense, sell, or transfer this Commercial License to third parties
+2. You may not remove or alter any copyright notices or license terms
+3. You must include appropriate attribution in your application's documentation
+4. This license does not grant rights to use trademarks or trade names
+
+DISCLAIMER:
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+COMMERCIAL LICENSE FEES:
+
+Commercial licenses are available for purchase. Contact the copyright holder
+for pricing and terms.
+
+================================================================================
+HOW TO CHOOSE THE RIGHT LICENSE
+================================================================================
+
+Choose the GPL-3.0-or-later license if:
+- You are developing open source software
+- You are comfortable with the copyleft requirements of the GPL
+- You want to contribute back any modifications to the community
+- Your project is compatible with GPL-3.0-or-later terms
+
+Choose the Commercial License if:
+- You are developing proprietary/commercial software
+- You cannot comply with the GPL's copyleft requirements
+- You need to keep your source code proprietary
+- You want to distribute the software without GPL obligations
+
+================================================================================
+COPYRIGHT NOTICE
+================================================================================
+
+Copyright (C) 2025 Isaac Raway.
+
+For commercial licensing inquiries, please contact: multiverse32@fastmail.com
+
+This dual licensing model is inspired by successful open source projects like Qt,
+MySQL, and other dual-licensed software that serves both open source and
+commercial communities.
