@@ -161,5 +161,7 @@
     // Win32 callback function type
     #define CALLBACK
     #define WINAPI
+
+    int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nCmdShow);
     
 #endif // !_WIN32

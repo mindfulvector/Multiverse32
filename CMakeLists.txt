@@ -43,6 +43,7 @@ message(STATUS "Building for platform: ${PLATFORM_NAME}")
 
 # Source files
 set(SOURCES
+    win32_compat.cpp
     win32_hello.cpp
 )
 
